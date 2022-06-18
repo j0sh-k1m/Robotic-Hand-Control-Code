@@ -1,11 +1,3 @@
-"""
-Author: Josh Kim
-Teacher: Mr.Radulovic 
-Course: TEJ4M
-Assignment name: Culminating Project - Robotic Arm/Hand
-Date: June 17, 2022
-"""
-
 import tkinter as tk
 from gpiozero import AngularServo 
 
